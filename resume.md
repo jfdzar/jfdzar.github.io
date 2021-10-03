@@ -1,6 +1,6 @@
 ---
 layout: post
-bg: '2016/background.jpg'
+bg: 'sunset.JPG'
 title: "Resume"
 crawlertitle: "Resume"
 summary: "Resume of Juan Fernandez"
