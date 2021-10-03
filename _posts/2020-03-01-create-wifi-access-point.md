@@ -12,14 +12,17 @@ author: jfdzar
 
 Source: https://thepi.io/how-to-use-your-raspberry-pi-as-a-wireless-access-point/
 
-* First install hostapd and dnsmasq </br>
+* First install hostapd and dnsmasq
 ```bash
 sudo apt-get install hostapd
 sudo apt-get install dnsmasq
 ```
-*Stop both services
+* Stop both services
+{% highlight bash %}
 sudo systemctl stop hostapd
 sudo systemctl stop dnsmasq
+{% endhighlight %}
+
 *Configure Statis IP for Wlan0 interface
 sudo nano /etc/dhcpcd.conf
 *Write the following at the end of the file
