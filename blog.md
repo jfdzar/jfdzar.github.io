@@ -1,8 +1,8 @@
 ---
-bg: "tag.jpg"
+bg: "olimpia.jpg"
 layout: page
 permalink: /posts/
-title: "Archive"
+title: "Blog"
 crawlertitle: "All articles"
 summary: "Posts about jekyll"
 active: archive
