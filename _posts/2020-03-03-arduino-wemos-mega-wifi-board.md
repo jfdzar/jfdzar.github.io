@@ -15,3 +15,7 @@ Wemos Mega+WiFi
 ## DIP Configuration
 
 [![DipConfiguration]({{ site.images | relative_url }}/dipconfiguration-wemosmega.png)]({{ site.images | relative_url }}/dipconfiguration-wemosmega.png)
+
+
+[![DipConfiguration]({{ site.images | relative_url }}/arduino-mega-esp8266-jumpers.png)]({{ site.images | relative_url }}/arduino-mega-esp8266-jumpers.png)
+

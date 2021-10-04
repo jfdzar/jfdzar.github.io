@@ -42,3 +42,6 @@ sass:
 
 
 images: '/assets/images'
+
+jekyll-mentions:
+  target: blank
