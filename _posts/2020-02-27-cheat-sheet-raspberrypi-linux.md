@@ -67,6 +67,7 @@ smbpasswd -a osmc
 * delete folder and its content
 ```bash
 rm -r foldername
+rm -rf foldername // Use f to force deleting
 ```
 * Download file from ssh server
 ```bash
