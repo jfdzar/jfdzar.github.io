@@ -39,3 +39,5 @@ Then we have some logical comparation methods
 * ">=" : ".ge()"
 * "==" : ".eq()"
 * "!=" : ".ne()"
+
+This post will be completed
