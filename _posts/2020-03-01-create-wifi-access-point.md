@@ -23,22 +23,33 @@ sudo systemctl stop hostapd
 sudo systemctl stop dnsmasq
 {% endhighlight %}
 
-*Configure Statis IP for Wlan0 interface
+* Configure Statis IP for Wlan0 interface
+```bash
 sudo nano /etc/dhcpcd.conf
-*Write the following at the end of the file
+```
+* Write the following at the end of the file
+```bash
 interface wlan0
 static ip_address=192.168.0.10/24
 denyinterfaces eth0
 denyinterfaces wlan0
-*Configure DHCP Server
+```
+* Configure DHCP Server
+```bash
 sudo mv /etc/dnsmasq.conf /etc/dnsmasq.conf.orig
 sudo nano /etc/dnsmasq.conf
-*Write the following in the file
+```
+* Write the following in the file
+```bash
 interface=wlan0
   dhcp-range=192.168.0.11,192.168.0.30,255.255.255.0,24h
-*Configure the access point host software (hostapd)
+```
+* Configure the access point host software (hostapd)
+```bash
 sudo nano /etc/hostapd/hostapd.conf
-*Write the following in the file
+```
+* Write the following in the file
+```bash
 interface=wlan0
 hw_mode=g
 channel=7
@@ -52,13 +63,20 @@ wpa_pairwise=TKIP
 rsn_pairwise=CCMP
 ssid=NETWORK
 wpa_passphrase=PASSWORD
-*Show the system the location of the file
+```
+* Show the system the location of the file
+```bash
 sudo nano /etc/default/hostapd
-*Write the following to the file
+```
+* Write the following to the file
+```bash
 DAEMON_CONF="/etc/hostapd/hostapd.conf"
+```
 
 
-*I had problems starting the services hostapd and I follow the instructions of this link running the following commands it worked… I also run something of the ip_tables but I do not know if it was related.
+* I had problems starting the services hostapd and I follow the instructions of this link running the following commands it worked… I also run something of the ip_tables but I do not know if it was related.
+```bash
 sudo systemctl unmask hostapd
 sudo systemctl enable hostapd
 sudo systemctl start hostapd
+```
