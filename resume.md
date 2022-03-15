@@ -15,7 +15,17 @@ active: resume
 ## 2018 - Today
 ### Livanova Deutschland GmbH
 
-Working in Livanova since 2018. To be completed...
+LivaNova is a global medical technology company built on decades of experience and a relentless commitment to patients. Its focus is transforming lives with products and therapies for the head and heart. It’s health innovation that truly matters. In Munich Site Livanova Deutschland GmbH focus mainly on Cardiopulmonary and heart surgery areas.
+
+Electrical hardware design and development of medical products within the Cardiac Surgery Franchise. Development from the concept phase, through the bring-up of prototypes to the final serial production:
+* Development following the V-Model: Requirements engineering using Polarion and documentation of hardware architecture and detailed design 
+* Circuit design, PCB Layout and cables design with Altium. I was responsible for the migration to Altium Designer, migrating the library and establishing guidelines and workflows for design and design transfer to manufacturing. Additionally I also created a system to design the cable drawings in Altium.
+* PCB Design according to DFM and DFT for flying probe test
+* IPC Certified Interconnect Designer (CID) Certification
+* PCB and prototype bring-up and testing
+* Technical lead activities: coordination of the integration of the different departments (hardware, software and mechanical) for a whole subsystem as well as the design transfer to production
+* Main responsible for electrical and functional safety certification of the product
+* Automating repetitive tasks with Python
 
 ## 2013 - 2018
 ### Hepa Wash GmbH (Now Advitos GmbH)

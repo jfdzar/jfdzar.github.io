@@ -25,7 +25,7 @@ passwd
 
 4. Reboot and connect again
 
-5. Run main configuration - set localation, time zone, etc
+5. Run main configuration - set location, time zone, etc
 ```bash
 sudo raspi-config
 sudo apt-get update and sudo apt-get upgrade
@@ -49,3 +49,16 @@ https://chrisschuld.com/2019/09/running-home-assistant-with-docker/
 After that system should be ready to run!
 
 Add the optional scripts you like
+
+
+# Other Guides that were useful
+* [Running Home Assistant with Docker](https://chrisschuld.com/2019/09/running-home-assistant-with-docker/)
+* [HA Install with Docker Compose](https://iotechonline.com/home-assistant-install-with-docker-compose/)
+
+Backup was solve in another way with a script - to be versioned
+* [Backup Docker Base Home Assistant to AWS](https://chrisschuld.com/2019/09/backup-docker-based-home-assistant-to-s3/)
+
+Another interesting article about the topic
+* [HA Panel iframe with external access](https://iotechonline.com/home-assistant-panel_iframe-external-access-with-nginx-proxy/)
+
+
