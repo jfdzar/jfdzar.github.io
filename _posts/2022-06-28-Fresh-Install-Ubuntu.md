@@ -24,6 +24,18 @@ https://www.omgubuntu.co.uk/2019/11/hide-mounted-drives-ubuntu-dock
 gsettings set org.gnome.shell.extensions.dash-to-dock show-mounts false
 ```
 
+* Clear snap update notifications [Link](https://askubuntu.com/questions/1412575/pending-update-of-snap-store)
+
+```bash
+ 
+sudo snap refresh snap-store
+# Error appear that the application was running, so first kill it
+kill 2927
+sudo snap refresh snap-store
+# First close Firefox
+sudo snap refresh firefox
+```
+
 # Programs to install
 
 * VS Code - Software Manager
