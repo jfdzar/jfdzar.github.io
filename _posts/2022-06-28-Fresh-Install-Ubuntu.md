@@ -24,6 +24,13 @@ https://www.omgubuntu.co.uk/2019/11/hide-mounted-drives-ubuntu-dock
 gsettings set org.gnome.shell.extensions.dash-to-dock show-mounts false
 ```
 
+* Default columns and sort type on Nautilus
+```bash
+ gsettings set org.gnome.nautilus.list-view default-visible-columns "['name', 'size','type', 'date_modified']"
+ gsettings set org.gnome.nautilus.preferences default-sort-order 'type'
+```
+
+
 * Clear snap update notifications [Link](https://askubuntu.com/questions/1412575/pending-update-of-snap-store)
 
 ```bash
