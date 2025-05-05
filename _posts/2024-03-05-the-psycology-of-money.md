@@ -58,5 +58,8 @@ Engineering taught me to design for failure but build for success. Housel’s op
 
 *The Psychology of Money* is more about how we think than what we know. It changed how I look at work, effort, and value. If you're into engineering, systems, or simply making smarter life choices—this one is a must-read.
 
-Let me know what resonated most with you or if you've read something similar recently.
+
+
+Quotes are from The Psychology of Money by Morgan Housel, used here under fair use for educational and commentary purposes.
+
 

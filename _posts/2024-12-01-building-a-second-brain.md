@@ -81,4 +81,4 @@ What I’ve realized is that organizing information is not about storage—it’
 
 ---
 
-*Have you read Building a Second Brain? What systems or habits have helped you manage your digital life? Feel free to share in the comments or link me to your setup—I'd love to see how others do it.*
+Quotes are from Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential (Tiago Forte), used here under fair use for educational and commentary purposes.
