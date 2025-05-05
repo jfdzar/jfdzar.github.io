@@ -13,7 +13,7 @@ Recently, I finished reading *Building a Second Brain* by Tiago Forte, and it re
 
 > *“Shift as much of your time and effort as possible from consuming to creating.”*
 
-This quote alone reframed my digital habits. Rather than endlessly reading and bookmarking content, I’m focusing more on producing: notes, blog posts, code, designs. The goal is to make knowledge *actionable*.
+This quote alone reframed my digital habits. Rather than endlessly reading and bookmarking content, I’m focusing more on producing: notes, blog posts, code, designs. The goal is to make knowledge *actionable*. It is difficult but I try.
 
 ## 🧠 Thinking as a Habit
 
@@ -36,7 +36,7 @@ I've reorganized my digital files to fit this model and it has made retrieval an
 
 > *“Writing creates new knowledge that wasn’t there before.”*
 
-I've noticed that writing even short notes triggers mental connections. That’s why I now write quick summaries and reactions even to tweets or interesting code snippets.
+I've noticed that writing even short notes triggers mental connections. That’s why I now write quick summaries and reactions even to tweets or interesting code snippets. Even I have tried to write small notes about books, films or events I attend.
 
 ## 🧪 The Power of Open Questions
 
@@ -55,7 +55,7 @@ This helps make my learning more intentional.
 
 > *“Highlight the main points of a note, then highlight those highlights.”*
 
-This has been a game changer. Now my long notes are easy to review and re-use when needed. I use different formats and bolding to distinguish layers of summarization.
+Could be a game changer but I still see it very difficult to implement. I may need to revise this note in the future and see how it is going.
 
 ## ✅ Weekly Reviews That Actually Work
 
