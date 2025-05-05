@@ -8,37 +8,38 @@ summary: "About Juan"
 active: about
 ---
 
-Hi. I'm Juan Fernandez Arias. I am an electronics engineer in Munich (Germany).
+## About Me
 
-I have studied in Madrid (Universidad Politecnica de Madrid) and in Munich (Technische Universität München) where I got the double degree.
+## About Me
 
-I have spent most of my professioal career in the field of medical devices. I have experience in the hardware design of medical products, from the requirements phase, the implementation and debug to the certifications phase:
+Hi! I'm Juan Fernandez Arias, an electronics engineer based in Munich, Germany.
 
-- Requirements Specification
-- Architecture and Detail Design
-- Schematics Design 
-- PCB Layout (DFM and DFT)
-- PCBAs bring-up and testing
-- Electrical Safety 
-- ...
+I hold a double degree in Industrial Engineering (Electronics and Control Theory) from Universidad Politécnica de Madrid and the Technische Universität München. Since 2013, I’ve been developing cutting-edge medical devices, with a strong focus on hardware design — from requirements engineering through to certification and production. My experience includes:
 
-I am also an IPC [Certified Interconnect Designer (CID)](https://www.ipc.org/ipc-designer-certification-program)
+- Requirements specification and hardware architecture  
+- Schematic and PCB design (with DFM/DFT in mind)  
+- PCB bring-up and testing  
+- Coordination across hardware, software, and mechanical teams  
+- Electrical and functional safety certification  
+- IPC Certified Interconnect Designer ([CID](https://www.ipc.org/ipc-designer-certification-program))
 
-Additionally I have some experience in the software development, as part of the embedded HW/SW Design. I have coded and debug microcontrollers in C/C++. I also got some experience with Labview and National Instruments Hardware (FPGA Boards). Both in the medical field as well.
+Though primarily a hardware engineer, I’ve worked extensively on embedded systems, writing and debugging firmware in C/C++.
 
-But most of my Software Skills come from my hobby time. I like to read and play with new and old technologies, I spend some of my free time with this kind of projects:
+In my free time, I dive into side projects blending hardware and software. I enjoy:
 
-- Programming Websites with [Jekyllrb :)](http://jekyllrb.com/) or Hugo
-- Trying to make my home smart with Homeassistant
-- Playing with Raspberry Pi
-- Automating Boring Stuff with Python
-- Analyzing Data with Python (Excel is old stuff)
-- Creating my sensors with Arduino, ESP8266, ESP32 and similar
-- Repairing and Sanitizing Laptops for [Labdoo](https://www.labdoo.org/)
-- Defending Linux for Home Users as well (Stop using windows...)
-- ...and much more things
+- Building websites with [Jekyll](http://jekyllrb.com/) or Hugo  
+- Automating tasks with Python  
+- Creating smart home setups with Home Assistant and Raspberry Pi  
+- Developing IoT projects with Arduino, ESP8266/ESP32  
+- Contributing to [Labdoo](https://www.labdoo.org/) by repairing and sanitizing donated laptops  
+- Advocating for Linux as a viable OS for everyday users  
+- Playing with cutting-edge AI tools  
+- Building and maintaining my own homelab
 
-This website is an attempt to document my work and serve as a portfolio, but at the same time being a logbook for me of things I did and I don't want to forget.
+Recently, I’ve developed a growing passion for personal finance and investing. I enjoy analyzing data, backtesting ideas, and exploring how technology can help democratize access to financial tools. This website is part portfolio, part personal lab — a place where I document what I build, learn, and discover along the way.
 
-The rest of the day I like to play football and (as you can see in the picture) ride my bikes.
+I’m fluent in Spanish, English, and German, and speak conversational Italian.
+
+When I’m not tinkering or coding, you’ll probably find me playing football or cycling around the Bavarian countryside.
+
 
