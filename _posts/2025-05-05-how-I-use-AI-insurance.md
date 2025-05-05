@@ -1,6 +1,7 @@
 ---
+bg: "tools.jpg"
 title: How I Used AI to Review My Insurance Policies (and What I Learned)
-date: 2025-05-05
+date: 2025-04-22
 tags: ['ai', 'personal-finance']
 layout: post
 author: jfdzar
