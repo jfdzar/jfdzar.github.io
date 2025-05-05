@@ -6,7 +6,7 @@ crawlertitle: The Psychology of Money
 summary: Reflecting on timeless ideas from Morgan Housel and how they shape the way I think about success, risk, and happiness.
 date: 2024-03-05
 categories: posts
-tags: ['books', 'psychology', 'money', 'personal-growth']
+tags: ['books', 'personal-finance']
 author: jfdzar
 ---
 
