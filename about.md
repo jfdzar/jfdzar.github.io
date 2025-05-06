@@ -10,8 +10,6 @@ active: about
 
 ## About Me
 
-## About Me
-
 Hi! I'm Juan Fernandez Arias, an electronics engineer based in Munich, Germany.
 
 I hold a double degree in Industrial Engineering (Electronics and Control Theory) from Universidad Politécnica de Madrid and the Technische Universität München. Since 2013, I’ve been developing cutting-edge medical devices, with a strong focus on hardware design — from requirements engineering through to certification and production. My experience includes:
