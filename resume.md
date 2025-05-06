@@ -4,7 +4,7 @@ bg: 'rainbow.JPG'
 title: "Resume"
 crawlertitle: "Resume"
 summary: "Resume of Juan Fernandez"
-date: 2021-08-11
+# date: 2025-05-06
 slug: post-url
 author: "Jfdzar"
 categories: Resume
@@ -13,7 +13,7 @@ active: resume
 ---
 ## 2018 – Today  
 ### Livanova Deutschland GmbH  
-**Senior Hardware Engineer – Munich, Germany**
+**Principal Hardware Engineer – Munich, Germany**
 
 LivaNova is a global medical technology company focused on transforming lives with products and therapies for the head and heart. The Munich site specializes in cardiopulmonary and heart surgery solutions.
 
