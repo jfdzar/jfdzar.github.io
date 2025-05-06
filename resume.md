@@ -17,7 +17,7 @@ active: resume
 
 LivaNova is a global medical technology company focused on transforming lives with products and therapies for the head and heart. The Munich site specializes in cardiopulmonary and heart surgery solutions.
 
-At LivaNova, I am responsible for the electrical hardware design and development of medical products within the Cardiac Surgery Franchise, covering the full lifecycle from concept to serial production:
+At LivaNova, I am responsible for the electrical hardware design and development of medical products within the Cardiac Surgery Business Unit, covering the full lifecycle from concept to serial production:
 
 - Development following the V-Model, including requirements engineering using Polarion  
 - Hardware architecture and detailed design documentation  
