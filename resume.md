@@ -6,7 +6,7 @@ crawlertitle: "Resume"
 summary: "Resume of Juan Fernandez"
 # date: 2025-05-06
 slug: post-url
-author: "Jfdzar"
+# author: "Jfdzar"
 categories: Resume
 permalink: /resume/
 active: resume
