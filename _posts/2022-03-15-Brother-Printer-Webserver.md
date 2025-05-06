@@ -10,13 +10,22 @@ tags: ['labdoo','linux','python']
 author: jfdzar
 ---
 
-For the Labdoo project I have to print the device tags and stick them to the laptops.
-At the beginning I was printing them in normal paper and then putting tape on them.
-The process was horrible and I lose a lot of time, until I saw this post in our Coffe Wall [Labels](https://platform.labdoo.org/de/content/labels).</br>
+### Printing Labdoo Tags with a Brother QL Printer
 
-I decided to investigate a bit and I discover that there was a guy who grote a python library for the QL Brother Printers [Brother QL on Github](https://github.com/pklaus/brother_ql). So I though, I have to make this work!
+As part of the [Labdoo project](https://platform.labdoo.org/de/content/labels), I need to print and attach device tags to laptops. Initially, I was printing them on regular paper and covering them with tape — a frustrating and time-consuming process.
 
-And I created a python program which created a webserver with flask to print the labels from Labdoo and much other things [BrotherPrinterWebServer](https://github.com/jfdzar/BrotherPrinterWebServer). I created a more simple program without webserver in case someone is intereset [Brother QL Labdoo Tags Printer](https://github.com/jfdzar/brother_ql_labdoo_tags_printer).
+One day, I came across this [post on our Coffee Wall](https://platform.labdoo.org/de/content/labels) about printing proper labels, and it changed everything.
 
-The installation process is well documented in the repository [BrotherPrinterWebServer](https://github.com/jfdzar/BrotherPrinterWebServer). So I won't be repeating everything but I wanted to give a bit of a Background here!
+After a bit of research, I discovered a Python library made for Brother QL printers: [Brother QL on GitHub](https://github.com/pklaus/brother_ql). I thought: _I have to make this work!_
 
+So, I created a Python tool that runs a small webserver using Flask to print Labdoo labels — and potentially much more:  
+👉 [BrotherPrinterWebServer](https://github.com/jfdzar/BrotherPrinterWebServer)
+
+For those who prefer simplicity or don’t want to run a webserver, I also made a lightweight version:  
+👉 [Brother QL Labdoo Tags Printer](https://github.com/jfdzar/brother_ql_labdoo_tags_printer)
+
+The installation is well documented in the repo, so I won’t repeat it all here. But I wanted to provide some background and share how this small improvement saved me a lot of time and hassle.
+
+Also worth noting — I’ve recently added Docker support to the main project to simplify setup and improve reproducibility.
+
+Happy printing!
