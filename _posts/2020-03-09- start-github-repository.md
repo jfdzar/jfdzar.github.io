@@ -6,7 +6,7 @@ crawlertitle: Best easy way to start a git repository
 summary: Best easy way to start a git repository 
 date:   2020-03-09
 categories: posts
-tags: ['github','linux']
+tags: ['linux']
 author: jfdzar
 ---
 Source of the process [Link](http://www.notyourdadsit.com/blog/2018/4/3/cheatsheet-setup-github-on-visual-studio-code)

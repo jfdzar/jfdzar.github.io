@@ -6,7 +6,7 @@ crawlertitle: Setting Up Ubuntu 20 in a Virtual Box
 summary: Setting Up Ubuntu 20 in a Virtual Box
 date:   2021-12-30
 categories: posts
-tags: ['virtualbox','linux']
+tags: ['linux']
 author: jfdzar
 ---
 

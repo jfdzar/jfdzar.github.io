@@ -6,7 +6,7 @@ crawlertitle: Tasmota on Sonoff
 summary: Tasmota on Sonoff
 date:   2020-03-01
 categories: posts
-tags: ['sonoff','tasmota']
+tags: ['homeassistant','arduino']
 author: jfdzar
 ---
 

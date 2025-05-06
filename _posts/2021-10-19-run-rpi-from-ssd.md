@@ -6,7 +6,7 @@ crawlertitle: Run Raspberry Pi from USB Drive
 summary: Run Raspberry Pi from USB Drive
 date:   2021-10-19
 categories: posts
-tags: ['raspberrypi','linux']
+tags: ['linux','raspberry']
 author: jfdzar
 ---
 

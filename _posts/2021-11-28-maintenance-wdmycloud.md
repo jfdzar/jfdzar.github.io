@@ -6,7 +6,7 @@ crawlertitle: Maintenance WD My Cloud
 summary: Maintenance WD My Cloud
 date:   2021-11-28
 categories: posts
-tags: ['wd-mycloud','linux']
+tags: ['linux']
 author: jfdzar
 ---
 

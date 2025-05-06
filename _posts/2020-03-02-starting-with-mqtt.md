@@ -6,7 +6,7 @@ crawlertitle: Starting with MQTT
 summary: Starting with MQTT with Arduino and Raspberry Pi
 date:   2020-03-02
 categories: posts
-tags: ['raspberry', 'mqtt', 'arduino','homeassistant']
+tags: ['raspberry', 'arduino','homeassistant']
 author: jfdzar
 ---
 

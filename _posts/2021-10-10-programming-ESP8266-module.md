@@ -6,7 +6,7 @@ crawlertitle: How to programm raw ESP8266-12E Chip
 summary: How to programm raw ESP8266-12E Chip
 date:   2021-10-10
 categories: posts
-tags: ['arduino','esp8266']
+tags: ['arduino']
 author: jfdzar
 ---
 
