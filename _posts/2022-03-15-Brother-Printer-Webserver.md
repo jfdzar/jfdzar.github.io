@@ -10,8 +10,6 @@ tags: ['labdoo','linux','python']
 author: jfdzar
 ---
 
-### Printing Labdoo Tags with a Brother QL Printer
-
 As part of the [Labdoo project](https://platform.labdoo.org/de/content/labels), I need to print and attach device tags to laptops. Initially, I was printing them on regular paper and covering them with tape — a frustrating and time-consuming process.
 
 One day, I came across this [post on our Coffee Wall](https://platform.labdoo.org/de/content/labels) about printing proper labels, and it changed everything.
